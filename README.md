@@ -4,7 +4,7 @@
 
 ##  Project Overview
 
-### 🚗 1. Supply Chain Management for Cars (Power BI + Python)
+### 🚗 1. Supply Chain Management for Cars (Power BI + Python +SQL)
 
 ### 🛒 2. Superstore Sales Performance Dashboard (Power BI)
 
